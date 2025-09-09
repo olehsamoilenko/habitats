@@ -1,0 +1,149 @@
+lat,lon,place,corine_code
+48.8566,2.3522,France Paris city centre (dense urban core),111
+52.5219,13.4132,Germany Berlin Alexanderplatz (highly urban),121
+40.4169,-3.7035,Spain Madrid Puerta del Sol (city core),111
+45.4642,9.19,Italy Milan Duomo area (urban),111
+52.2297,21.0122,Poland Warsaw Śródmieście (urban centre),111
+48.323,1.676,France Beauce plateau near Chartres (arable),211
+45.144,10.02,Italy Po Valley near Cremona (arable),112
+42.021,-4.514,Spain Campos de Castilla near Palencia (cereal fields),211
+52.105,11.646,Germany Saxony-Anhalt near Magdeburg (farmland),121
+52.294,16.88,Poland Wielkopolskie near Poznań (farmland),313
+52.739,23.871,Poland Białowieża Forest (mixed forest),311
+48.129,8.233,Germany Black Forest near Triberg,112
+63.176,14.638,Sweden Boreal forest near Östersund,111
+49.056,19.736,Slovakia Carpathian forest near Liptovský Hrádok,211
+48.133,7.044,France Vosges forest,312
+36.998,-6.438,Spain Doñana marshes,421
+43.502,4.514,France Camargue wetlands (Rhône delta),521
+45.16,29.6,Romania Danube Delta marshes,411
+53.41,22.65,Poland Biebrza marshes,311
+55.302,21.281,Lithuania Nemunas Delta wetlands (near Rusnė),521
+46.822,17.741,Hungary Lake Balaton,512
+45.612,10.662,Italy Lake Garda,512
+58.919,13.483,Sweden Lake Vänern,512
+61.23,28.78,Finland Lake Saimaa,512
+49.85,2.6,Picardy cereal plains near Amiens,211
+37.765,-3.79,Jaén olive groves (Andalusia),111
+39.39,-3.23,La Mancha cereal fields,231
+46.92,19.7,Great Hungarian Plain near Kecskemét,121
+44.57,27.37,Bărăgan Plain near Slobozia,112
+52.35,5.41,Flevoland polder fields near Zeewolde,211
+56.45,9.4,Jutland arable near Viborg,112
+51.23,22.8,Lublin Upland farmland,231
+48.88,12.59,Lower Bavaria arable near Straubing,112
+54.57,23.35,Suvalkija farmland near Marijampolė,141
+49.047,13.485,Bavarian Forest National Park,312
+51.76,10.66,Harz National Park,312
+49.179,20.142,Tatra National Park (forested belt),332
+45.36,22.86,Retezat National Park,332
+45.64,14.86,Kočevje — Krokar primeval beech forest,112
+63.11,29.806,Koli National Park (boreal),312
+57.283,25.254,Gauja National Park,243
+42.179,23.532,Rila National Park (coniferous),332
+39.95,20.72,Vikos–Aoos National Park (Pindus),321
+46.066,8.529,Val Grande National Park (wilderness),322
+53.5,6.25,Wadden Sea intertidal flats near Schiermonnikoog,331
+44.923,12.395,Po Delta wetlands,211
+40.692,0.738,Ebro Delta wetlands,213
+53.144,22.963,Narew National Park (anastomosing river marshes),211
+47.738,16.761,Neusiedler See reedbeds (Seewinkel),411
+45.477,13.598,Sečovlje Salina Nature Park (salt pans),422
+37.032,-7.815,Ria Formosa lagoon marshes,312
+38.47,-8.74,Sado Estuary marshes,522
+46.838,19.219,Kiskunság saline pans (sodic lakes),321
+64.78,24.66,Northern Ostrobothnia aapa mire (Siikajoki area),313
+46.454,6.555,Lake Geneva (Lac Léman) mid-lake,512
+47.593,9.437,Lake Constance (Bodensee) Upper Lake,512
+58.35,14.55,Lake Vättern (central basin),512
+53.441,12.735,Lake Müritz (central),411
+53.76,21.703,Lake Śniardwy (central),512
+52.735,5.385,IJsselmeer (central),512
+53.48,-9.27,Lough Corrib (central),512
+56.019,12.088,Arresø (central),243
+38.219,-7.496,Alqueva Reservoir (central),512
+43.138,12.126,Lake Trasimeno (central),512
+58.476,25.155,Soomaa National Park — floodplain & raised bogs,412
+57.247,13.913,Store Mosse National Park — largest bog in S. Sweden,412
+56.94,23.555,Ķemeri National Park — Great Bog,412
+54.396,23.704,Žuvintas Biosphere Reserve — mires & marshes,211
+53.212,-7.986,Shannon Callows — floodplain meadows & marshes,412
+45.617,18.791,Kopački Rit — Danube–Drava floodplain wetlands,324
+43.06,17.55,Neretva Delta — coastal marshes & lagoons,323
+40.735,26.081,Evros (Maritsa) Delta — coastal wetlands,421
+40.513,22.721,Axios–Loudias–Aliakmonas Delta — marshes & lagoons,421
+45.391,12.368,Venice Lagoon — barene (salt marshes),523
+52.701,23.853,Białowieża Forest (core),231
+47.873,8.005,Black Forest near Feldberg,321
+48.958,13.493,Šumava (Bohemian Forest) interior,324
+47.737,24.564,Maramureș forests,311
+39.302,16.556,Sila National Park (Calabria),321
+42.989,-1.119,Irati Forest (Navarra),311
+47.925,2.511,Forêt d'Orléans (large lowland forest),311
+61.007,14.61,Dalarna boreal forest,112
+66.322,29.391,Oulanka NP boreal forest,313
+48.935,19.558,Low Tatras forest belt,321
+57.089,-3.643,Cairngorms moorland (heath),333
+52.048,6.012,Veluwezoom heath (Posbank),322
+53.092,9.936,Lüneburg Heath (Lüneburger Heide),312
+44.124,3.088,Grands Causses steppe grasslands,242
+36.757,-2.122,Cabo de Gata — Mediterranean scrub,211
+40.09,9.386,Sardinia macchia (Gallura),321
+35.24,24.165,Crete maquis (Lefka Ori foothills),324
+38.488,-9.009,Arrábida maquis,313
+53.117,-6.38,Wicklow Mountains blanket bog/heath,412
+45.141,28.318,Dobrogea steppe grasslands (Măcin area),311
+44.589,-1.213,Dune du Pilat (coastal dunes),331
+55.269,21.053,Curonian Spit dunes (Nida),521
+42.202,-1.529,"Bardenas Reales badlands (semi-arid, sparse)",323
+37.034,-2.445,Tabernas badlands (semi-arid),333
+39.721,21.63,Meteora bare rock,142
+46.618,12.305,Dolomites — Tre Cime bare rock,332
+47.074,12.699,Pasterze Glacier (Grossglockner),335
+61.686,7.133,"Nigardsbreen, Jostedalsbreen glacier",335
+67.901,18.623,Kebnekaise snowfields/glaciers,332
+40.321,-7.612,Serra da Estrela bare rock plateau,333
+37.77,-0.8,Mar Menor coastal lagoon margins (Murcia),521
+39.33,-0.33,Albufera de Valencia marsh fringe,521
+40.633,-8.742,Ria de Aveiro (Aveiro Lagoon) salt‑marsh,521
+38.76,-9.05,Tejo (Tagus) Estuary marshes (Lisbon),522
+37.23,-6.95,Marismas del Odiel (Huelva) salt‑marsh,121
+44.65,28.85,Razim–Sinoe Lagoon complex (Dobrogea),321
+38.37,21.36,Messolonghi–Aitoliko lagoons marshes,523
+39.01,20.84,Amvrakikos Gulf wetlands (Louros/Arachthos deltas),523
+55.35,21.19,Curonian Lagoon (Ventė Cape marsh edge),521
+53.75,14.25,Szczecin (Oder) Lagoon marsh fringe,231
+57.3,19.0,Central Baltic Sea,523
+60.1,25.0,Northern Baltic — Gulf of Finland,523
+40.9,12.9,Central Tyrrhenian Sea,523
+37.6,25.1,Central Aegean Sea,333
+52.37317,4.891,Amsterdam — Dam Square / dense urban grid,112
+41.38923,2.16493,Barcelona — Eixample grid,111
+41.90278,12.49636,Rome — Centro Storico,111
+48.20849,16.37208,Vienna — Innere Stadt,111
+50.087,14.42,Prague — Staré Město,111
+47.49791,19.04025,Budapest — city centre,111
+38.71,-9.139,Lisbon — Baixa/Chiado,111
+37.9755,23.7348,Athens — Syntagma/Plaka,111
+50.84673,4.35247,Brussels — Grand Place area,111
+55.6761,12.56834,Copenhagen — Indre By,111
+53.4666,22.6613,"Extensive peat bogs, fens, floodplain marshes (Ramsar/Natura 2000)",142
+39.15,-3.667,La Mancha wetland complex; marshes fed by Guadiana,231
+58.44083,25.10556,"Raised bogs, floodplain meadows; 'fifth season' floods",321
+56.95167,23.5125,Raised bog complex with pools and mires,311
+67.39,19.441,Vast mire systems and peatlands in subarctic zone,312
+58.356824,-3.897081,One of the world's largest blanket bogs (UNESCO/Ramsar),312
+48.133,16.917,"Alluvial forests, backwaters, marshes along the Danube",131
+45.602,18.786,Danube–Drava floodplain marshes and oxbow lakes (Ramsar),112
+47.59444,21.15667,"Marshes, alkaline meadows and fishponds on the Great Plain",142
+44.11444,27.07806,Danube lakeside wetland; pelican colony (UNESCO/Ramsar),411
+54.456302,8.646408,World’s largest intertidal flats system (UNESCO/Ramsar),523
+43.504722,4.589722,"Salt marshes, lagoons, rice fields; flamingos (Ramsar)",521
+45.2,29.5,Europe’s largest deltaic wetland (UNESCO/Ramsar),411
+40.717,0.733,"Extensive marshes, rice paddies and lagoons (Ramsar)",111
+36.997639,-7.860889,Barrier-island lagoon with salt marshes (Ramsar),423
+44.5,12.217,"Adriatic delta with marshes, lagoons and reedbeds (Ramsar)",211
+43.025278,17.558611,Coastal marshes and lagoons at Neretva mouth (Ramsar),212
+40.833333,26.066389,Large deltaic marshes at Greek–Turkish border (Ramsar),212
+55.3,21.0,Deltaic marshes and reedbeds at lagoon margin (Ramsar),324
+52.967667,0.307611,Intertidal flats and salt marshes (Ramsar/Natura 2000),523
